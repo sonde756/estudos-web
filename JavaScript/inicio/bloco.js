@@ -4,4 +4,4 @@ let raio = 10;
 
 let raioR = PI * raio * raio;
 
-console.log(raioR.toFixed(2))
+console.log(raioR.toFixed(4))
